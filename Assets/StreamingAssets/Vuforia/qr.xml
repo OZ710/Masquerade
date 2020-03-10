@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stage" size="5.000000 6.043437" />
+    <ImageTarget name="kilivathil" size="5.000000 5.355649" />
+    <ImageTarget name="gym" size="5.000000 7.795372" />
+    <ImageTarget name="maths" size="5.000000 4.515625" />
+    <ImageTarget name="canteen" size="5.000000 4.820312" />
+    <ImageTarget name="atm" size="5.000000 4.890625" />
+    <ImageTarget name="security" size="5.000000 7.331042" />
+    <ImageTarget name="badminton" size="5.000000 6.830309" />
+    <ImageTarget name="campusDoctor" size="5.000000 4.886719" />
+  </Tracking>
+</QCARConfig>

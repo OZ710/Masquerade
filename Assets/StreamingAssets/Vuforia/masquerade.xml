@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Illuminati" size="5.000000 4.578704" />
+    <ImageTarget name="atm1" size="1.000000 0.603399" />
+    <ImageTarget name="gym2" size="5.000000 8.888889" />
+    <ImageTarget name="security2" size="5.000000 7.097669" />
+    <ImageTarget name="maths" size="5.000000 4.515625" />
+    <ImageTarget name="canteen" size="5.000000 4.820312" />
+    <ImageTarget name="badminton" size="5.000000 6.830309" />
+  </Tracking>
+</QCARConfig>
